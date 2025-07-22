@@ -24,3 +24,10 @@ SmartHomeFinder is A Visual ML-Powered Real Estate Assistant designed to help yo
 ###### Development Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+
+
+### How It Works:
+Our website operates by using an ML model trained on the massive [MassGIS](https://www.mass.gov/info-details/massgis-data-layers) massachusetts dataset to predict
+the best choice of house for a potential buyer.
+
+Parameters include housing related choices such as the *number of rooms*, *maximum price*, etc.
