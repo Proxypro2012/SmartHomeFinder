@@ -1,8 +1,6 @@
 # SmartHomeFinder
-SmartHomeFinder is A Visual ML-Powered Real Estate Assistant designed to help you find a place suited to your needs.
-
-
-
+SmartHomeFinder is A Visual ML-Powered Real Estate Assistant designed to help you find a place suited to your needs. Completed as a project for the ISW's Artificial Intelligence class, SmartHomeFinder 
+uses various parameters to categorize different houses in Massachusetts in order to help a user identify a house that best accommodates their needs and desires in a house.
 
 
 <br>
