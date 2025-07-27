@@ -87,7 +87,7 @@ Alex found a beautiful 3-bed home in Arlington, MA:
 - 📈 7.8% 5-year value growth prediction
 - 🔇 Low noise & great remote work layout
 
-**He submitted a request to the real estate agent — all within 15 minutes.**
+**He reviewed the house and submitted a request to the real estate agent — all within 15 minutes.**
 
 ---
 
