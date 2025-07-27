@@ -71,7 +71,7 @@ Instead of flipping through thousands of listings manually...
 - 🧠 ML-powered house vibe classifier
 - 🌎 Real-time AQI + noise level maps
 
-🔁 Then it **ranked** all available homes in Massachusetts, showing Alex the **top 5 most compatible homes** with a personalized **Match Score**.
+🔁 Then it **ranked** all available homes in Massachusetts, showing Alex the **top 10 most compatible homes** with a personalized **Match Score**.
 
 ---
 
