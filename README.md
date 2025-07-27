@@ -36,6 +36,8 @@ the best choice of house for a potential buyer.
 - 🧠 ML-powered house vibe classifier
 - 🌎 Real-time AQI + noise level maps
 
+### SOLUTION = AI Solution
+
 ## 📘 Real-World Example: Meet Alex
 
 Alex is a 32-year-old remote software engineer who’s planning to move to Massachusetts. He doesn't just want any house — he wants one that fits his *lifestyle, habits, and future goals*.
@@ -121,3 +123,8 @@ We love helping people *find more than a house — we help them find a future*.
 
 
 
+| Input                                | Process                         | Analyze                |  Output              |          Store           |
+|--------------------------------------|---------------------------------|------------------------|----------------------|--------------------------|
+| **All Parameters**                   | Reinforcement Learning          | Feedback               | Return an Output based on the results| Store any updated data  |
+| **All Databases**                    |
+                                                                                                    
