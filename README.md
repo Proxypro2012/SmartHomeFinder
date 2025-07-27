@@ -93,7 +93,7 @@ Alex found a beautiful 3-bed home in Arlington, MA:
 
 ## 🧪 Want to Try?
 
-Just go to [our website!](https://smarthomefinder-isw.netlify.app) *(placeholder)*  
+Just go to [our website!](https://smarthomefinder-isw.netlify.app)
 Tell us what *you* want in a home — and we’ll help you find it.
 
 ---
