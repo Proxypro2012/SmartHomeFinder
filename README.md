@@ -110,7 +110,7 @@ Tell us what *you* want in a home — and we’ll help you find it.
 
 ## 📣 Feedback & Ideas?
 
-Open an issue or email us at `team@smarthomefinder.com`.  
+Open an issue or email us at `kabir.tiwari@outlook.com`.  
 We love helping people *find more than a house — we help them find a future*.
 
 
