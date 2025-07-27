@@ -126,5 +126,6 @@ We love helping people *find more than a house — we help them find a future*.
 | Input                                | Process                         | Analyze                |  Output              |          Store           |
 |--------------------------------------|---------------------------------|------------------------|----------------------|--------------------------|
 | **All Parameters**                   | Reinforcement Learning          | Feedback               | Return an Output based on the results| Store any updated data  |
-| **All Databases**                    |
+| **All Databases**                    | Past Experiences                | Feedback               | Return an Output based on the data| Store any updated data  |
+| **Backend Service**                  | Process request                 | Feedback               | Update or destroy data| Store any updated data |
                                                                                                     
