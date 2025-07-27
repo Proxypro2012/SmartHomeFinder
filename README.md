@@ -25,10 +25,16 @@
 
 ### How It Works:
 Our website operates by using an ML model trained on the massive [MassGIS](https://www.mass.gov/info-details/massgis-data-layers) massachusetts dataset to predict
-the best choice of house for a potential buyer.
+the best choice of house for a potential buyer.  
 
-Parameters include housing related choices such as the *number of rooms*, *maximum price*, etc.
 
+## REQUIREMENTS (Inputs):
+- 🚇 Transit APIs (for commute time)
+- 📊 School rating databases
+- 🛰 Satellite data for solar potential
+- 🌪 FEMA and flood zone maps
+- 🧠 ML-powered house vibe classifier
+- 🌎 Real-time AQI + noise level maps
 
 ## 📘 Real-World Example: Meet Alex
 
