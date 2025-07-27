@@ -28,3 +28,7 @@ Our website operates by using an ML model trained on the massive [MassGIS](https
 the best choice of house for a potential buyer.
 
 Parameters include housing related choices such as the *number of rooms*, *maximum price*, etc.
+
+REQUIREMENTS:
+
+
